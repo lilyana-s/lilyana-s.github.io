@@ -4,5 +4,6 @@ Mechanical Engineering student at Carnegie Mellon University
 Interested in medical devices and human-centered engineering
 
 ## Projects
-- Load-Bearing Bracket Design
+- [Load-Bearing Bracket Design](projects/load-bearing-bracket)
 - Automatic Pill Dispenser
+
