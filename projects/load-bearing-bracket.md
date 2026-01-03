@@ -20,6 +20,10 @@ Calculated stresses and factors of safety under worst-case loading conditions to
 Modeled the bracket geometry in CAD, incorporating fillets and thickness variations to reduce stress concentrations.
 
 ## Finite Element Analysis
+<img src="/assets/images/bracket/bracket-fea.png" alt="Finite element stress analysis of load-bearing bracket under applied load" width="500">
+
+*Figure 2. Finite element von Mises stress distribution for the load-bearing bracket under the design load, used to verify stress levels and factor of safety.*
+
 Performed FEA to validate stress distributions and compare results against hand calculations.
 
 ## Fabrication & Testing
