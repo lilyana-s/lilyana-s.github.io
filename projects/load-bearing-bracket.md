@@ -13,6 +13,8 @@ The bracket was required to support specified loads while meeting factor of safe
 Calculated stresses and factors of safety under worst-case loading conditions to size the bracket geometry.
 
 ## CAD Design
+![CAD model of load-bearing bracket](../assets/images/bracket/bracket-cad.png)
+
 Modeled the bracket geometry in CAD, incorporating fillets and thickness variations to reduce stress concentrations.
 
 ## Finite Element Analysis
